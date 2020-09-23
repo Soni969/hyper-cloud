@@ -1,0 +1,7 @@
+{
+  "name": "hyper-cloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
